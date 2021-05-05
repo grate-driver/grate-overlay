@@ -1,5 +1,0 @@
-#While these can technically be enabled, programs that call GL functions will be using a software renderer. User beware
-wayland
-gles2
-gles3
-webgl

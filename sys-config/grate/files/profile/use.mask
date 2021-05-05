@@ -1,0 +1,7 @@
+#unmask nouveau
+-video_cards_nouveau
+
+#unmask vdpau
+-vdpau
+#unmask tegra
+-video_cards_tegra

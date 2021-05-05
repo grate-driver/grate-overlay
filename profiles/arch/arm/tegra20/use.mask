@@ -1,3 +1,0 @@
-#tegra20 does not have
-neon
-cpu_flags_arm_neon

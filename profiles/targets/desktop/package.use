@@ -1,4 +1,0 @@
-media-libs/mesa -classic -dri3
-
-#Dependency required by vlc
-sys-libs/zlib minizip

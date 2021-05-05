@@ -1,3 +1,0 @@
-VIDEO_CARDS="tegra nouveau -omap -exynos"
-INPUT_DEVICES="libinput -keyboard -mouse"
-USE="${USE} egl libdrm libkms kms vdpau xa xv xvmc"

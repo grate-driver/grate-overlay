@@ -1,6 +1,0 @@
-CFLAGS="${CFLAGS} -mfpu=vfpv3-d16 -mfloat-abi=hard"
-LDFLAGS="-mfloat-abi=hard"
-
-CPU_FLAGS_ARM="vfpv3"
-
-VIDEO_CARDS="tegra nouveau -omap -exynos"
